@@ -3,9 +3,9 @@
 ### Overview
 
 `Primary Learning Objective`
-*Creating and iterative refining a regression model
-*Using Kaggle to practice the modeling process
-*Providing business insights through reporting and presentation
+1. Creating and iterative refining a regression model
+2. Using Kaggle to practice the modeling process
+3. Providing business insights through reporting and presentation
 
 ### Problem Statement
 
